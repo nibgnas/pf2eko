@@ -1,0 +1,42 @@
+/*캐릭터 이름 크기 조정*/
+.actor.sheet .crb-style header.char-header .char-details h1.char-name input[type=text], .actor.sheet .crb-style header.char-header .char-details h1.char-name span.non-editable {
+    font-size: var(--font-size-21);
+	font-weight: 600;
+}
+
+/*현재 HP 칸 안맞는 현상 수정*/
+element.style {
+}
+.actor.sheet .crb-style aside .sidebar .hitpoints .hp-big .container.current-hp {
+    padding: 10px 10px 0;
+}
+
+/*현재 HP 글자 크기 수정*/
+.actor.sheet .crb-style aside .sidebar .hitpoints .hp-big .container.current-hp .data-value input[type=number] {
+    font-size: var(--font-size-30);
+	    width: 46px;
+}
+
+/*글짜 크기 수정*/
+element.style {
+}
+.crb-style .details-label {
+    font-size: 0.66rem;
+}
+
+/*능력치 부분 단어 글자 수정*/
+.actor.sheet.character .crb-style .sheet-body .sheet-content .tab.character .ability-scores .ability .ability-id {
+    font: 600 17px var(--serif-condensed);
+}
+
+/*통찰력 칸 수정*/
+.crb-style select {
+	line-height: 1.16;
+}
+
+/*수정칸 수정*/
+.crb-hover .tooltipster-box .tooltipster-content .hover-content ul .item .tag-legacy {
+	width: auto;
+}
+
+
