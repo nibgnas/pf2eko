@@ -1,5 +1,5 @@
 {
-	"name": "pf2eko",
+	"id": "pf2eko",
 	"title": "한글화（Pathfinder2e）",
 	"description": "PF2e를 한국어로 하기 위한 Mod",
 	"version": "0.0.1",
@@ -36,5 +36,15 @@
 	"type": "module"
 	}
 ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "compatibility": {
+          "minimum": "4.0.0"
+        }
+      }
+    ]
+  },
 	"download" : "https://github.com/nibgnas/pf2eko/releases/latest/download/pf2eko.zip"
 }
