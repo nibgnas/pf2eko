@@ -1,10 +1,11 @@
 {
-	"id": "pf2eko",
+	"id": "pf2e-ko",
+	"name": "pf2eko",
 	"title": "한글화（Pathfinder2e）",
 	"description": "PF2e를 한국어로 하기 위한 Mod",
 	"version": "0.0.1",
 	"esmodules": [],
- 	 "styles" : ["main.css"],
+ 	 "styles" : ["Styles/main.css"],
   	"compatibility": {
    	 "minimum": "10",
     	"verified": "10",
