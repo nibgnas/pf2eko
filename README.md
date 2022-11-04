@@ -2,4 +2,4 @@
 WIP
 
 링크<br>
-https://raw.githubusercontent.com/nibgnas/pf2eko/master/module.json
+https://github.com/nibgnas/pf2eko/releases/latest/download/module.json
