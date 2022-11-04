@@ -3,7 +3,7 @@
 	"name": "pf2eko",
 	"title": "패스파인더2e 한글화",
 	"description": "PF2e를 한국어로 하기 위한 Mod",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"esmodules": [],
  	 "styles" : ["Styles/pf2eko.css"],
   	"compatibility": {
