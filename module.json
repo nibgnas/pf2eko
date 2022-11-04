@@ -28,7 +28,7 @@
 	}
 ],
 	"url" : "https://github.com/nibgnas/pf2eko",
-	"download" : "https://github.com/nibgnas/pf2eja/archive/master.zip",
+	"download" : "https://github.com/nibgnas/pf2eja/Releases/master.zip",
 	"manifest" : "https://raw.githubusercontent.com/nibgnas/pf2eko/master/module.json",
   "minimumCoreVersion": "0.9.0",
   "compatibleCoreVersion": "10"
