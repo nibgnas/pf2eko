@@ -1,5 +1,4 @@
 {
-	"id": "pf2eko",
 	"name": "pf2eko",
 	"title": "한글화（Pathfinder2e）",
 	"description": "PF2e를 한국어로 하기 위한 Mod",
@@ -39,6 +38,6 @@
 	"type": "module"
 	}
 ],
-	"download" : "https://github.com/nibgnas/pf2eko/releases/latest/download/pf2eko.zip",
 	"manifest" : "https://github.com/nibgnas/pf2eko/releases/latest/download/module.json",
+	"download" : "https://github.com/nibgnas/pf2eko/releases/latest/download/pf2eko.zip"
 }
