@@ -2,21 +2,19 @@
 	"name": "pf2eko",
 	"title": "한글화（Pathfinder2e）",
 	"description": "PF2e를 한국어로 하기 위한 Mod",
-	"version": "0.01",
-	"author": "Nibgnas",
+	"version": "0.0.1",
+	"esmodules": [],
+ 	 "styles" : ["main.css"],
+  	"compatibility": {
+   	 "minimum": "10",
+    	"verified": "10",
+   	 "maximum": "10"
+ 	 },
+	"manifest" : "https://github.com/nibgnas/pf2eko/releases/latest/download/module.json",
 	"authors": [{
 		"name": "Nibgnas",
 		"url": "https://github.com/nibgnas"
 	}],
-	"esmodules": [],
- 	 "styles" : ["main.css"],
-	 "minimumCoreVersion": "0.6.0",
-	 "compatibleCoreVersion": "10",
-	 "compatibility": {
-		"minimum": "0.6.5",
-		"verified": "10"
-	},
-	"url" : "https://github.com/nibgnas/pf2eko",
 	"languages": [
 		{
 			"lang": "ko",
@@ -38,6 +36,5 @@
 	"type": "module"
 	}
 ],
-	"manifest" : "https://github.com/nibgnas/pf2eko/releases/latest/download/module.json",
 	"download" : "https://github.com/nibgnas/pf2eko/releases/latest/download/pf2eko.zip"
 }
