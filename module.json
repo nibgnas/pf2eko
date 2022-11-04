@@ -29,7 +29,7 @@
 ],
 	"url" : "https://github.com/nibgnas/pf2eko",
 	"download" : "https://github.com/nibgnas/pf2eko/latest/download/pf2eko.zip",
-	"manifest" : "https://github.com/nibgnas/pf2eko/latest/download/system.json",
+	"manifest" : "https://github.com/nibgnas/pf2eko/latest/download/module.json",
   "minimumCoreVersion": "0.9.0",
   "compatibleCoreVersion": "10"
 }
