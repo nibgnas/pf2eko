@@ -4,6 +4,11 @@
 	font-weight: 600;
 }
 
+/*캐릭터 성향 크기 조절*/
+.actor.sheet.character .crb-style .sheet-body .sheet-content .tab.character .character-details .alignment select {
+	line-height: 2;
+}
+
 /*현재 HP 칸 안맞는 현상 수정*/
 element.style {
 }
@@ -29,6 +34,10 @@ element.style {
     font: 600 17px var(--serif-condensed);
 }
 
+.actor.sheet.character .crb-style .sheet-body .sheet-content .tab.character .ability-scores .ability .ability-name {
+	opacity: .6;
+}
+
 /*통찰력 칸 수정*/
 .crb-style select {
 	line-height: 1.16;
@@ -40,3 +49,40 @@ element.style {
 }
 
 
+/*능력 분배 수정*/
+.ability-builder-popup .window-content h3 {
+	font-size: 1.40rem;
+	font-weight: 600;
+}
+
+.ability-builder-popup .window-content .title {
+	font-size: 0.7rem;
+}
+
+.ability-builder-popup .window-content .hint-container label {
+    font-size: 0.8rem;
+}
+
+/*액션 수정*/
+.app.sheet.actor p, .pf2e p {
+    font-size: 0.83rem;
+}
+
+dd {
+    font-size: 0.83rem;
+}
+
+/*주화 부분 수정*/
+li.label {
+    width: 34%;
+}
+
+/*패스파인더 소사이어티 수정*/
+.actor.sheet.character .crb-style .sheet-body .sheet-content .tab.pfs>section.reputations .reputation {
+	width: 14em;
+}
+
+/*재주안에 배경 수정*/
+.actor.sheet.character .crb-style .sheet-body .sheet-content .tab.feats .feat-item .item-name .feat-slot-title {
+	width: 34px;
+}
