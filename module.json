@@ -1,0 +1,57 @@
+{
+  "id": "pf2e-ko",
+  "title": "패스파인더2e 한글화",
+   "description": "PF2e를 한국어로 하기 위한 Mod",
+  "version": "0.0.5",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+    "manifest": "https://github.com/nibgnas/pf2eko/releases/latest/download/module.json",
+   "authors": [
+    {
+      "name": "Nibgnas",
+      "url": "https://github.com/nibgnas",
+      "flags": {}
+    }
+  ],
+  "languages": [
+    {
+      "lang": "ko",
+      "system": "pf2e",
+      "name": "한국어",
+      "path": "lang/ko.json",
+      "flags": {}
+    }
+  ],
+      "styles": [
+    "Styles/pf2eko.css"
+  ],
+  "scripts": [
+    "register-babele.js"
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "compatibility": {
+          "minimum": "5.4.0"
+        },
+        "type": "system"
+      }
+    ],
+    "requires": [
+      {
+        "id": "lib-wrapper",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      }
+	  ]
+},
+  "download": "https://github.com/nibgnas/pf2eko/releases/latest/download/pf2eko.zip"
+}
